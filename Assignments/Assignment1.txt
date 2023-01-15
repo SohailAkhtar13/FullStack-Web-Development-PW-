@@ -1,0 +1,14 @@
+Q1. What is the internet?
+Ans.Internet is basically a computer connected with different computers globally and it uses (TCP/IP) Protocol to communicate with different devices                                                                                                                                                                                                                                                                                                                                                                                                
+Q2. What is a web browser?
+Ans. A web browser is an application software used for accessing websites. 
+    some of the popular web browsers are Safari,Google chrome,Brave
+Q3. what is a browser engine?
+Ans.A browser engine is a core  software component in a web browser and is responsible for the working of web browser
+    Eg-bling,webkit,v8 engine and gecko
+Q4. What is a static site?                    
+Ans.A static site is a site which doesn't load on server side and has stable content.
+    we can use static sites to build online portfolios, FAQ section,Personal blogs are some of the examples
+Q5. What is a dynamic site?
+Ans. A dynamic site is a type of website that uses a server site programming and database to generate it's content.
+	Dynamic site provides  dynamic and interactive  functionality to the user.       
